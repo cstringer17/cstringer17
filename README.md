@@ -12,11 +12,12 @@
 <img src="https://img.shields.io/badge/PowerShell-%23404040.svg?&style=flat-square&logo=PowerShell"/>
 <img src="https://img.shields.io/badge/node.js%20-%23404040.svg?&style=flat-square&logo=node.js"/>
 <img src="https://img.shields.io/badge/javascript%20-%23404040.svg?&style=flat-square&logo=javascript"/>
+<img src="https://img.shields.io/badge/markdown-%23404040.svg?&style=flat-square&logo=markdown"/>
 
 <h3>I have experience with:</h3>
 <img src="https://img.shields.io/badge/html5%20-%23404040.svg?&style=flat-square&logo=html5"/>
 <img src="https://img.shields.io/badge/css3%20-%23404040.svg?&style=flat-square&logo=css3"/>
-<img src="https://img.shields.io/badge/markdown-%23404040.svg?&style=flat-square&logo=markdown"/>
+
 <img src="https://img.shields.io/badge/git%20-%23404040.svg?&style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/github%20-%23404040.svg?&style=flat-square&logo=github"/>
 <img src="https://img.shields.io/badge/mysql-%23404040.svg?&style=flat-square&logo=mysql"/>
