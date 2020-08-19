@@ -2,7 +2,7 @@
 
 ![Years on GitHub](https://badges.pufler.dev/years/cstringer17?color=404040&style=flat-square)
 ![Years on GitHub](https://badges.pufler.dev/repos/cstringer17?color=404040&style=flat-square)
-![](https://komarev.com/ghpvc/?username=cstringer17&color=blue)
+![](https://komarev.com/ghpvc/?username=cstringer17&color=blue&style=flat-square)
 
 <div align="left">
 <div>
