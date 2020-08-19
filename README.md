@@ -1,4 +1,4 @@
-<div style="text-align:center;">
+
   <h2> Hi there 👋 </h2>
 <a>🔭 I’m currently working at Idorsia and coding in
   &nbsp;</a>
@@ -11,4 +11,4 @@
   <a>👯 I’m looking to collaborate on anything you fancy</a>
 <br>
   <a>📫 How to reach me: callumstringer10@gmail.com</a>
-</div>
+
