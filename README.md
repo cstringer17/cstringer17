@@ -1,8 +1,6 @@
 <div style="text-align:center;">
   <h2> Hi there 👋 </h2>
 <br>
-<br>
-
 🔭 I’m currently working at Idorsia and coding in
 &nbsp;
 <img src="https://img.shields.io/badge/%20-Java-red">
