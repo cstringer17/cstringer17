@@ -35,4 +35,11 @@
 <img src="https://img.shields.io/badge/electron-%23404040.svg?&style=flat-square&logo=Electron"/>
 <img src="https://img.shields.io/badge/TypeScript-%23404040.svg?&style=flat-square&logo=typeScript"/>
 </div>
+
+:mega: gibm.callumstringer.com  - Gibm Calendar 
+
+:bulb: callumstringer.com  - In development
+
+:bulb: pr1sm.gg  - In development 
+
 </div>
