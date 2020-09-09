@@ -8,6 +8,7 @@
 
 <h2>:information_source: About me...</h2>
 <h4>:blue_book: Stats...</h4>
+
 ![Years on GitHub](https://badges.pufler.dev/years/cstringer17?color=404040&style=flat-square)
 ![Years on GitHub](https://badges.pufler.dev/repos/cstringer17?color=404040&style=flat-square)
 
