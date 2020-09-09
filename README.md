@@ -1,7 +1,14 @@
-<h2> Hi there 👋 </h2>
+<h1> Hi there 👋 </h1>
 
 ![Years on GitHub](https://badges.pufler.dev/years/cstringer17?color=404040&style=flat-square)
 ![Years on GitHub](https://badges.pufler.dev/repos/cstringer17?color=404040&style=flat-square)
+
+<h2>:wrench: What I am working on...</h2>
+
+<h4>:mega:  Gibm Calendar  https://gibm.callumstringer.com - School Project Site</h4>
+<h4>:hammer: Personal Website https://www.callumstringer.com - In development</h4>
+
+<h2>:information_source: About me...</h2>
 
 <div align="left">
 <div>
@@ -36,10 +43,8 @@
 <img src="https://img.shields.io/badge/TypeScript-%23404040.svg?&style=flat-square&logo=typeScript"/>
 </div>
 
-:mega: gibm.callumstringer.com  - Gibm Calendar 
 
-:bulb: callumstringer.com  - In development
 
-:bulb: pr1sm.gg  - In development 
+
 
 </div>
