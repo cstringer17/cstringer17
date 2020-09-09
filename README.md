@@ -1,7 +1,5 @@
-<h1> Hi there 👋 </h1>
+<h1> Hi there 👋 :mask:</h1>
 
-![Years on GitHub](https://badges.pufler.dev/years/cstringer17?color=404040&style=flat-square)
-![Years on GitHub](https://badges.pufler.dev/repos/cstringer17?color=404040&style=flat-square)
 
 <h2>:wrench: What I am working on...</h2>
 
@@ -9,6 +7,9 @@
 <h4>:hammer: Personal Website https://www.callumstringer.com - In development</h4>
 
 <h2>:information_source: About me...</h2>
+<h4>:blue_book: Stats...</h4>
+![Years on GitHub](https://badges.pufler.dev/years/cstringer17?color=404040&style=flat-square)
+![Years on GitHub](https://badges.pufler.dev/repos/cstringer17?color=404040&style=flat-square)
 
 <div align="left">
 <div>
