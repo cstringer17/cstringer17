@@ -1,11 +1,5 @@
 <h1> Hi there 👋 :mask:</h1>
 
-
-<h2>:wrench: What I am working on...</h2>
-
-<h4>:mega:  Gibm Calendar  https://gibm.callumstringer.com - School Project Site</h4>
-<h4>:hammer: Personal Website https://www.callumstringer.com - In development</h4>
-
 <h2>:information_source: About me...</h2>
 <h4>:blue_book: Stats...</h4>
 
