@@ -26,6 +26,7 @@
 <h4>:hammer: I am currently learning...</h4>
 <img src="https://img.shields.io/badge/Javascript%20-%23404040.svg?&style=flat-square&logo=javascript"/>
 <img src="https://img.shields.io/badge/Markdown-%23404040.svg?&style=flat-square&logo=markdown"/>
+<img src="https://img.shields.io/badge/php-%23404040.svg?&style=flat-square&logo=php"/>
 </div>
 <div>
 <h4>:rocket: In the future I would like to learn...</h4>
