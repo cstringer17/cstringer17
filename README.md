@@ -1,14 +1,11 @@
 <h1> Hi there 👋 :mask:</h1>
+
 ![Years on GitHub](https://badges.pufler.dev/years/cstringer17?color=404040&style=flat-square)
 ![Years on GitHub](https://badges.pufler.dev/repos/cstringer17?color=404040&style=flat-square)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=cstringer17&theme=ayu-mirage&count_private=true&hide_border=true&line_height=24&show_icons=true" />
 
 <h2>:information_source: About me...</h2>
-
-<h4>:blue_book: Stats...</h4>
-
-
 
 <div align="left">
 <div>
