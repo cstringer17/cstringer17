@@ -1,10 +1,14 @@
 <h1> Hi there 👋 :mask:</h1>
-
-<h2>:information_source: About me...</h2>
-<h4>:blue_book: Stats...</h4>
-
 ![Years on GitHub](https://badges.pufler.dev/years/cstringer17?color=404040&style=flat-square)
 ![Years on GitHub](https://badges.pufler.dev/repos/cstringer17?color=404040&style=flat-square)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=cstringer17&theme=ayu-mirage&count_private=true&hide_border=true&line_height=24&show_icons=true" />
+
+<h2>:information_source: About me...</h2>
+
+<h4>:blue_book: Stats...</h4>
+
+
 
 <div align="left">
 <div>
@@ -21,19 +25,6 @@
 <img src="https://img.shields.io/badge/mysql-%23404040.svg?&style=flat-square&logo=mysql"/>
 <img src="https://img.shields.io/badge/PowerShell-%23404040.svg?&style=flat-square&logo=PowerShell"/>
 <img src="https://img.shields.io/badge/Vue-%23404040.svg?&style=flat-square&logo=Vue.js"/>
-</div>
-<div>
-<h4>:hammer: I am currently learning...</h4>
-<img src="https://img.shields.io/badge/Javascript%20-%23404040.svg?&style=flat-square&logo=javascript"/>
-<img src="https://img.shields.io/badge/Markdown-%23404040.svg?&style=flat-square&logo=markdown"/>
-<img src="https://img.shields.io/badge/php-%23404040.svg?&style=flat-square&logo=php"/>
-</div>
-<div>
-<h4>:rocket: In the future I would like to learn...</h4>
-<img src="https://img.shields.io/badge/Next.js-%23404040.svg?&style=flat-square&logo=Next.js"/>
-<img src="https://img.shields.io/badge/Sass-%23404040.svg?&style=flat-square&logo=Sass"/>
-<img src="https://img.shields.io/badge/Docker-%23404040.svg?&style=flat-square&logo=Docker"/>
-<img src="https://img.shields.io/badge/electron-%23404040.svg?&style=flat-square&logo=Electron"/>
 </div>
 
 
