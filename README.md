@@ -16,6 +16,7 @@
 </div>
 <div>
 <h4>:closed_book: In the past I have worked with...</h4>
+<img src="https://img.shields.io/badge/javascript%20-%23404040.svg?&style=flat-square&logo=javascript"/>
 <img src="https://img.shields.io/badge/html5%20-%23404040.svg?&style=flat-square&logo=html5"/>
 <img src="https://img.shields.io/badge/css3%20-%23404040.svg?&style=flat-square&logo=css3"/>
 <img src="https://img.shields.io/badge/git%20-%23404040.svg?&style=flat-square&logo=git"/>
