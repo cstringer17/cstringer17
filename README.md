@@ -4,8 +4,10 @@
 ![Years on GitHub](https://badges.pufler.dev/repos/cstringer17?color=404040&style=flat-square)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=cstringer17&theme=monokai&count_private=true&hide_border=true&line_height=24&show_icons=true" />
-<img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cstringer17&theme=monokai&layout=compact&hide_border=true" />
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cstringer17&theme=monokai&hide_border=true" />
+
+<br>
 <h2>:information_source: About me...</h2>
 
 <div align="left">
