@@ -15,7 +15,7 @@
 <h4>:umbrella: I am working with...</h4>
 <img src="https://img.shields.io/badge/Java-%23404040.svg?&style=flat-square&logo=Java"/>
 <img src="https://img.shields.io/badge/Apache_Maven-%23404040.svg?&style=flat-square&logo=Apache-Maven"/>
-  <img src="https://img.shields.io/badge/php-%23404040.svg?&style=flat-square&logo=php"/>
+  
   <img src="https://img.shields.io/badge/docker-%23404040.svg?&style=flat-square&logo=docker"/>
 </div>
 <div>
@@ -28,5 +28,6 @@
 <img src="https://img.shields.io/badge/mysql-%23404040.svg?&style=flat-square&logo=mysql"/>
 <img src="https://img.shields.io/badge/PowerShell-%23404040.svg?&style=flat-square&logo=PowerShell"/>
 <img src="https://img.shields.io/badge/Vue-%23404040.svg?&style=flat-square&logo=Vue.js"/>
+  <img src="https://img.shields.io/badge/php-%23404040.svg?&style=flat-square&logo=php"/>
 </div>
 </div>
