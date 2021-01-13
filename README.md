@@ -15,8 +15,8 @@
 <h4>:umbrella: I am working with...</h4>
 <img src="https://img.shields.io/badge/Java-%23404040.svg?&style=flat-square&logo=Java"/>
 <img src="https://img.shields.io/badge/Apache_Maven-%23404040.svg?&style=flat-square&logo=Apache-Maven"/>
-  
-  <img src="https://img.shields.io/badge/docker-%23404040.svg?&style=flat-square&logo=docker"/>
+<img src="https://img.shields.io/badge/docker-%23404040.svg?&style=flat-square&logo=docker"/>
+<img src="https://img.shields.io/badge/terraform-%23404040.svg?&style=flat-square&logo=terraform"/>
 </div>
 <div>
 <h4>:closed_book: In the past I have worked with...</h4>
