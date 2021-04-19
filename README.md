@@ -3,9 +3,12 @@
 ![Years on GitHub](https://badges.pufler.dev/years/cstringer17?color=404040&style=flat-square)
 ![Years on GitHub](https://badges.pufler.dev/repos/cstringer17?color=404040&style=flat-square)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=cstringer17&theme=monokai&count_private=true&hide_border=true&line_height=24&show_icons=true" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cstringer17&theme=monokai&hide_border=true" />
+<a href="https://github.com/okkdev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cstringer17&theme=omni&count_private=true&hide_border=true&line_height=24&show_icons=true" />
+</a>
+<a href="https://github.com/cstringer17?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cstringer17&layout=compact&theme=omni&langs_count=8&hide_border=true" />
+</a>
 
 <br>
 <h2>:information_source: About me...</h2>
