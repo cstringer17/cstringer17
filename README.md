@@ -19,7 +19,16 @@
 <img src="https://img.shields.io/badge/Java-%23404040.svg?&style=flat-square&logo=Java"/>
 <img src="https://img.shields.io/badge/Apache_Maven-%23404040.svg?&style=flat-square&logo=Apache-Maven"/>
 <img src="https://img.shields.io/badge/docker-%23404040.svg?&style=flat-square&logo=docker"/>
-<img src="https://img.shields.io/badge/terraform-%23404040.svg?&style=flat-square&logo=terraform"/>
+
+</div>
+  <div align="left">
+<div>
+<h4>:mortar_board: I am learning...</h4>
+<img src="https://img.shields.io/badge/Java-%23404040.svg?&style=flat-square&logo=Java"/>
+<img src="https://img.shields.io/badge/Java-%23404040.svg?&style=flat-square&logo=next-js"/>
+  <img src="https://img.shields.io/badge/Java-%23404040.svg?&style=flat-square&logo=tailwind-css"/>
+<img src="https://img.shields.io/badge/docker-%23404040.svg?&style=flat-square&logo=docker"/>
+
 </div>
 <div>
 <h4>:closed_book: In the past I have worked with...</h4>
@@ -32,5 +41,6 @@
 <img src="https://img.shields.io/badge/PowerShell-%23404040.svg?&style=flat-square&logo=PowerShell"/>
 <img src="https://img.shields.io/badge/Vue-%23404040.svg?&style=flat-square&logo=Vue.js"/>
   <img src="https://img.shields.io/badge/php-%23404040.svg?&style=flat-square&logo=php"/>
+  <img src="https://img.shields.io/badge/terraform-%23404040.svg?&style=flat-square&logo=terraform"/>
 </div>
 </div>
