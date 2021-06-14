@@ -25,7 +25,7 @@
 <div>
 <h4>:mortar_board: I am learning...</h4>
 
-<img src="https://img.shields.io/badge/Next.js-%23404040.svg?&style=flat-square&logo=next-js"/>
+<img src="https://img.shields.io/badge/Next.js-%23404040.svg?&style=flat-square&logo=Next.js"/>
 <img src="https://img.shields.io/badge/Tailwind-%23404040.svg?&style=flat-square&logo=tailwind-css"/>
 <img src="https://img.shields.io/badge/docker-%23404040.svg?&style=flat-square&logo=docker"/>
 
