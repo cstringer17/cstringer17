@@ -1,10 +1,4 @@
-<h1> Hi there 👋 :mask:</h1>
-
-![Years on GitHub](https://badges.pufler.dev/years/cstringer17?color=404040&style=flat-square)
-![Years on GitHub](https://badges.pufler.dev/repos/cstringer17?color=404040&style=flat-square)
-
-
-
+# Hi there 👋  
 
 <a href="https://github.com/cstringer17">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cstringer17&theme=omni&count_private=true&hide_border=true&line_height=24&show_icons=true" />
@@ -13,42 +7,38 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cstringer17&layout=compact&theme=omni&langs_count=8&hide_border=true" />
 </a>
 
+---
 
+## 🧑‍💻 About Me
+Software Engineer with 7+ years spanning **data, systems, and full-stack development**.  
+Experienced in **Python, SQL, Java**, and modern frameworks (**Flask, Nuxt, Swell**).  
+Focused on **clean architecture, scalable APIs, and workflow automation**.  
+Always exploring new tools and contributing to open projects.  
 
+---
 
-<br>
-<h2>:information_source: About me...</h2>
+## 🛠️ Tech I Work With  
 
-<div align="left">
-<div>
-<h4>:umbrella: I often work with...</h4>
-<img src="https://img.shields.io/badge/Java-%23404040.svg?&style=flat-square&logo=Java"/>
-<img src="https://img.shields.io/badge/Apache_Maven-%23404040.svg?&style=flat-square&logo=Apache-Maven"/>
-<img src="https://img.shields.io/badge/docker-%23404040.svg?&style=flat-square&logo=docker"/>
+### Languages & Core  
+<img src="https://img.shields.io/badge/Python-%23404040.svg?&style=flat-square&logo=python"/> <img src="https://img.shields.io/badge/Java-%23404040.svg?&style=flat-square&logo=Java"/> <img src="https://img.shields.io/badge/SQL-%23404040.svg?&style=flat-square&logo=mysql"/> <img src="https://img.shields.io/badge/PowerShell-%23404040.svg?&style=flat-square&logo=PowerShell"/> <img src="https://img.shields.io/badge/PHP-%23404040.svg?&style=flat-square&logo=php"/>
 
-</div>
-  <div align="left">
-<div>
-<h4>:mortar_board: I am learning...</h4>
-  
-<img src="https://img.shields.io/badge/Spring_Boot-%23404040.svg?&style=flat-square&logo=spring-boot"/>
-<img src="https://img.shields.io/badge/Vaadin-%23404040.svg?&style=flat-square&logo=vaadin"/>
-<img src="https://img.shields.io/badge/Next.js-%23404040.svg?&style=flat-square&logo=Next.js"/>
-<img src="https://img.shields.io/badge/Tailwind-%23404040.svg?&style=flat-square&logo=tailwind-css"/>
+### Frameworks & Web  
+<img src="https://img.shields.io/badge/Flask-%23404040.svg?&style=flat-square&logo=flask"/> <img src="https://img.shields.io/badge/Spring_Boot-%23404040.svg?&style=flat-square&logo=spring-boot"/> <img src="https://img.shields.io/badge/Nuxt_3-%23404040.svg?&style=flat-square&logo=nuxt.js"/> <img src="https://img.shields.io/badge/Vue-%23404040.svg?&style=flat-square&logo=Vue.js"/> <img src="https://img.shields.io/badge/Next.js-%23404040.svg?&style=flat-square&logo=Next.js"/> <img src="https://img.shields.io/badge/Tailwind-%23404040.svg?&style=flat-square&logo=tailwind-css"/>
 
+### DevOps & Cloud  
+<img src="https://img.shields.io/badge/Docker-%23404040.svg?&style=flat-square&logo=docker"/> <img src="https://img.shields.io/badge/Terraform-%23404040.svg?&style=flat-square&logo=terraform"/> <img src="https://img.shields.io/badge/Git-%23404040.svg?&style=flat-square&logo=git"/> <img src="https://img.shields.io/badge/AWS-%23404040.svg?&style=flat-square&logo=amazon-aws"/> <img src="https://img.shields.io/badge/GCP-%23404040.svg?&style=flat-square&logo=google-cloud"/>
 
-</div>
-<div>
-<h4>:closed_book: In the past I have worked with...</h4>
-<img src="https://img.shields.io/badge/javascript%20-%23404040.svg?&style=flat-square&logo=javascript"/>
-<img src="https://img.shields.io/badge/html5%20-%23404040.svg?&style=flat-square&logo=html5"/>
-<img src="https://img.shields.io/badge/css3%20-%23404040.svg?&style=flat-square&logo=css3"/>
-<img src="https://img.shields.io/badge/git%20-%23404040.svg?&style=flat-square&logo=git"/>
-<img src="https://img.shields.io/badge/github%20-%23404040.svg?&style=flat-square&logo=github"/>
-<img src="https://img.shields.io/badge/mysql-%23404040.svg?&style=flat-square&logo=mysql"/>
-<img src="https://img.shields.io/badge/PowerShell-%23404040.svg?&style=flat-square&logo=PowerShell"/>
-<img src="https://img.shields.io/badge/Vue-%23404040.svg?&style=flat-square&logo=Vue.js"/>
-  <img src="https://img.shields.io/badge/php-%23404040.svg?&style=flat-square&logo=php"/>
-  <img src="https://img.shields.io/badge/terraform-%23404040.svg?&style=flat-square&logo=terraform"/>
-</div>
-</div>
+### Data & Analytics  
+<img src="https://img.shields.io/badge/Power_BI-%23404040.svg?&style=flat-square&logo=power-bi"/> <img src="https://img.shields.io/badge/SAP-%23404040.svg?&style=flat-square&logo=sap"/>
+
+---
+
+## 🚀 What I’m Working On
+- Frontend development with **Astro, Svelte, and SvelteKit**.  
+- **API automation** and **AI integration** for smarter workflows.  
+- **CMS integration** (Sanity, headless setups) for flexible content management.  
+- Exploring and applying the **right tech stacks to solve industry-specific requirements**.  
+
+---
+
+📫 **Connect with me**: [LinkedIn](https://www.linkedin.com/in/callum-stringer/) | [GitHub](https://github.com/cstringer17)
