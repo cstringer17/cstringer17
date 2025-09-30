@@ -1,14 +1,5 @@
 # Hi there 👋  
-
-<a href="https://github.com/cstringer17">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cstringer17&theme=omni&count_private=true&hide_border=true&line_height=24&show_icons=true" />
-</a>
-<a href="https://github.com/cstringer17?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cstringer17&layout=compact&theme=omni&langs_count=8&hide_border=true" />
-</a>
-
 ---
-
 ## 🧑‍💻 About Me
 Software Engineer with 7+ years spanning **data, systems, and full-stack development**.  
 Experienced in **Python, SQL, Java**, and modern frameworks (**Flask, Nuxt, Swell**).  
@@ -16,7 +7,6 @@ Focused on **clean architecture, scalable APIs, and workflow automation**.
 Always exploring new tools and contributing to open projects.  
 
 ---
-
 ## 🛠️ Tech I Work With  
 
 ### Languages & Core  
@@ -32,7 +22,6 @@ Always exploring new tools and contributing to open projects.
 <img src="https://img.shields.io/badge/Power_BI-%23404040.svg?&style=flat-square&logo=power-bi"/> <img src="https://img.shields.io/badge/SAP-%23404040.svg?&style=flat-square&logo=sap"/>
 
 ---
-
 ## 🚀 What I’m Working On
 - Frontend development with **Astro, Svelte, and SvelteKit**.  
 - **API automation** and **AI integration** for smarter workflows.  
